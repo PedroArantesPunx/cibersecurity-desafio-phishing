@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./Captura de tela de 2025-01-11 14-44-30.png "Optional title")
+![Alt text](./passwd_owner.png "Optional title")
